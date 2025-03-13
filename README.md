@@ -1,7 +1,7 @@
 # authormatcher
 (I worked on this project as part of a university course on advanced natural language processing.)
 
-<img src="https://img.shields.io/badge/Status-On-hiatus-red" alt="Status" height="40">
+<img src="https://img.shields.io/badge/Status-On_hiatus-red" alt="Status" height="40">
 <img src="https://img.shields.io/badge/Currently_Working_On-Assembling_compute-8A2BE2"alt="Currently Working On" height="30">
 
 ## Task summary
